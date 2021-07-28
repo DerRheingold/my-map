@@ -41,8 +41,8 @@
          "properties":[
                 {
                  "name":"jitsiRoom",
-                 "type":"bool",
-                 "value":true
+                 "type":"string",
+                 "value":"conferenceRoom"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -59,8 +59,8 @@
          "properties":[
                 {
                  "name":"jitsiRoom",
-                 "type":"bool",
-                 "value":true
+                 "type":"string",
+                 "value":"kitchen"
                 }],
          "type":"tilelayer",
          "visible":true,

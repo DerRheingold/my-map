@@ -1546,7 +1546,7 @@
  </layer>
  <layer id="13" name="Meeting" width="31" height="44">
   <properties>
-   <property name="jitsiRoom" type="bool" value="true"/>
+   <property name="jitsiRoom" value="conferenceRoom"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -1597,7 +1597,7 @@
  </layer>
  <layer id="23" name="Kitchen-meeting-room" width="31" height="44">
   <properties>
-   <property name="jitsiRoom" type="bool" value="true"/>
+   <property name="jitsiRoom" value="kitchen"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
